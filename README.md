@@ -1,3 +1,1 @@
-
-
-Calculator, Python
+Calculator with basic operators. Made with Python.
